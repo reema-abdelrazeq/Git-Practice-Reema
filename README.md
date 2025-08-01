@@ -20,3 +20,11 @@ It tells Git which files or folders to ignore and not track — such as cache fi
 - Make changes and commit them  
 - Push the branch to your fork  
 - Create a Pull Request to the original repository
+
+## Task Summary
+
+- Created GitHub repo and initialized with README  
+- Added theoretical questions answers (Part 1)  
+- Created Python script and pushed it  
+- Created `feature/info` branch, added `info.txt`, pushed and merged  
+- Created `fix/readme` branch, updated README with this task summary 
